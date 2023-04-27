@@ -12,3 +12,5 @@ Python file generates the images needed to:
 *Estimate the divergence of the IR beam 
 
 To run the code, it is necessary to specify the direction of the images 'Task11_holey_mirror.png', 'Task13_nofilter.png','Task13_Mgfilter.png', 'Task13_Tefilter.png' and all the .txt
+
+The PDF file is a lab report to show the results and analysis of the data 
