@@ -4,7 +4,7 @@
 Python file generates the images needed to:
 
 *Estimate the peak intensity in the laser focus of the HR GHHG Gas beamline
-*Estimate the microscopic cut-off (using eqs. (1) and (3)) based on the intensities obtained in the previous task (Task 11) and the gas used for generation
+*Estimate the microscopic cut-off based on the intensities obtained in the previous task (Task 11) and the gas used for generation
 *Calibrate the XUV FFS images
 *Based on the calibrated XUV spectrum without filter obtained in the previous task, give the macroscopically obtained cut-off.
 *Sum the XUV spectrum recorded without filter along the spectral axis
